@@ -1,0 +1,23 @@
+Company Description
+
+Company Name: Infinite Logic
+
+Locations: 5 locations in major cities around the U.S.
+
+Number of Employees: 35 employees
+
+Revenue:
+They set up and provide continuous technical support for small business and startup office environments. Revenue is generated from the initial setup process involving acquisition of Hardware and Software along with income received from continuing monthly tech support, and trainings in certain software or technologies.
+Annual revenue
+	5 Locations
+	30 Client businesses per Location
+	$25,000 monthly per location
+	$125,000 monthly
+	$1.8  Million yearly
+
+Transactions
+	Tech Support Tickets/300 daily
+	Supplier Request/1 per week
+	Trainings/1 per week
+
+	
